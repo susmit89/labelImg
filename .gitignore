@@ -13,6 +13,7 @@ dist/
 
 tags
 cscope*
+venv/
 .ycm_extra_conf.py
 .subvimrc
 .vscode
